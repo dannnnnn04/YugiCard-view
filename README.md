@@ -8,7 +8,7 @@ Time spent: **15** hours spent in total
 
 ## Summary
 
-**YugiCard-view** is an android app that that displays a scrollable list of cards from the Yu-Gi-Oh! API
+**YugiCard-view** is an android app that displays a scrollable list of cards from the Yu-Gi-Oh! API
 
 If I had to describe this project in three (3) emojis, they would be: **🤞🃏😎**
 
